@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ghost\\Documents\\Unreal Projects\\StargazerSanctum\\Source\\StargazerSanctum\\StargazerSanctum.Build.cs",
+		"C:\\Users\\ghost\\Documents\\Unreal Projects\\StargazerSanctum\\Source\\StargazerSanctum.Target.cs",
+		"C:\\Users\\ghost\\Documents\\Unreal Projects\\StargazerSanctum\\Source\\StargazerSanctumEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

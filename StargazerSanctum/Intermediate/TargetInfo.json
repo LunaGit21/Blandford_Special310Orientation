@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StargazerSanctum",
+			"Path": "C:\\Users\\ghost\\Documents\\Unreal Projects\\StargazerSanctum\\Source\\StargazerSanctum.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StargazerSanctumEditor",
+			"Path": "C:\\Users\\ghost\\Documents\\Unreal Projects\\StargazerSanctum\\Source\\StargazerSanctumEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
